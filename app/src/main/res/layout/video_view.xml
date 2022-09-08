@@ -10,7 +10,7 @@
         android:id="@+id/videoImg"
         android:layout_width="70dp"
         android:layout_height="55dp"
-        android:src="@mipmap/ic_video_player"
+        android:src="@mipmap/ic_logo"
         android:contentDescription="@string/image"
         app:shapeAppearanceOverlay="@style/curved"
         android:layout_marginStart="5dp"/>
