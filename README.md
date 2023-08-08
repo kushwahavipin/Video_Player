@@ -1,22 +1,6 @@
 # VideoPlayer
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Kotlin](https://img.shields.io/badge/Kotlin-100%25-brightgreen)
-
 <b>Simple Yet A Feature Rich Video Player Application.</b><br>
 
-<b>Apk Link (Try it yourself & I would love to hear your feedback 🙂):<b>
-  <br>https://drive.google.com/file/d/1b955pdRCQAfmRjg5rQxpCM2Y8f16Cz7L/view?usp=sharing (v1.0.4)
-
-Some ScreenShots 😃:</br>
-<img src="https://github.com/HarshAndroid/VideoPlayer/blob/master/Screen_shots_of_app/7.png" width=45% height=30%/>
-<img src="https://github.com/HarshAndroid/VideoPlayer/blob/master/Screen_shots_of_app/6.png" width=45% height=30%/>
-<img src="https://github.com/HarshAndroid/VideoPlayer/blob/master/Screen_shots_of_app/1.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/VideoPlayer/blob/master/Screen_shots_of_app/8.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/VideoPlayer/blob/master/Screen_shots_of_app/3.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/VideoPlayer/blob/master/Screen_shots_of_app/4.png" width=30% height=25%/>
-<img src="https://github.com/HarshAndroid/VideoPlayer/blob/master/Screen_shots_of_app/5.png" width=30% height=25%/>
-<!-- <img src="https://github.com/HarshAndroid/VideoPlayer/blob/master/Screen_shots_of_app/8.png" width=30% height=30%/> -->
-</br>
   
  <b>Features👇 : </b>
 <ul>
@@ -37,9 +21,3 @@ Some ScreenShots 😃:</br>
 <li>In-Built Youtube Integration Using Custom Chrome Tabs
 <li>And Much More....
 </ul>
-  
-
-  <br><br>
-  <b>Note:</b> This Project is Much More Improved (i.e. Contains New Features) & Optimized than Youtube Course Project.
-
-For Feedback or Suggestions Mail Me At kushwahavipin786@gmail.com 🙂
